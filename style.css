@@ -1,0 +1,17 @@
+.goods-item {
+    width: 400px;
+    border: 2px solid blue;
+}
+
+img{
+    width: 100%;
+}
+
+.goods-list {
+    display: flex;
+    flex-wrap: wrap;
+
+    list-style: none;
+    gap: 30px;
+    justify-content: center;
+}
